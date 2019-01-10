@@ -1,0 +1,2 @@
+- Surge/Shadowrocket 去广告配置，其余直连
+- 基于lhie1的规则提取而成，感谢lhie1！https://github.com/lhie1/Rules
